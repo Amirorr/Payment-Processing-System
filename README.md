@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
 ![Pattern](https://img.shields.io/badge/Design-Strategy-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
