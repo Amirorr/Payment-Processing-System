@@ -121,14 +121,14 @@ To add a new payment method (e.g., Bank Transfer):
 
 ## 🚀 Future Enhancements
 
-| Priority | Feature | Status |
-|----------|---------|--------|
-| 🔴 High | Input validation & error handling | ⏳ Planned |
-| 🔴 High | Database integration | ⏳ Planned |
-| 🟡 Medium | Unit tests (JUnit) | ⏳ Planned |
-| 🟡 Medium | Logging (SLF4J) | ⏳ Planned |
-| 🟢 Low | GUI interface | ⏳ Planned |
-| 🟢 Low | Currency conversion | ⏳ Planned |
+| Feature | Status |
+|---------|--------|
+| Input validation & error handling | ⏳ Planned |
+| Database integration | ⏳ Planned |
+ | Unit tests (JUnit) | ⏳ Planned |
+ | Logging (SLF4J) | ⏳ Planned |
+ | GUI interface | ⏳ Planned |
+ | Currency conversion | ⏳ Planned |
 
 
 ---
